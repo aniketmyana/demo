@@ -7,7 +7,7 @@ export default function Page() {
       height: "100vh",
       fontFamily: "sans-serif"
     }}>
-      <h1>GitHub Demo!</h1>
+      <h1>Hello World!</h1>
     </div>
   );
 }
